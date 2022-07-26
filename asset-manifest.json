@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/dwfront/static/css/main.e6c13ad2.css",
+    "main.css": "/dwfront/static/css/main.7f08ee54.css",
     "main.js": "/dwfront/static/js/main.ca890d7b.js",
     "static/js/787.4b7e5139.chunk.js": "/dwfront/static/js/787.4b7e5139.chunk.js",
+    "static/media/dw2.jpg": "/dwfront/static/media/dw2.6a09239a3e226ad96802.jpg",
+    "static/media/dw3.jpg": "/dwfront/static/media/dw3.9de58967095beec46f1e.jpg",
     "static/media/drums.jpg": "/dwfront/static/media/drums.489df8b3563a61cc90e2.jpg",
+    "static/media/dwx.jpg": "/dwfront/static/media/dwx.7cffd1cd37c4b0c467a3.jpg",
     "static/media/icono-sonido.svg": "/dwfront/static/media/icono-sonido.f54763756084f6d6a07ff4ef38d39e7b.svg",
     "static/media/icono-garantia.svg": "/dwfront/static/media/icono-garantia.5edb4254f02ab0cad1430ff2890bde19.svg",
     "static/media/icono-bateria.svg": "/dwfront/static/media/icono-bateria.8d9bb8baa5169906bf8164333b375fc2.svg",
     "index.html": "/dwfront/index.html",
-    "main.e6c13ad2.css.map": "/dwfront/static/css/main.e6c13ad2.css.map",
+    "main.7f08ee54.css.map": "/dwfront/static/css/main.7f08ee54.css.map",
     "main.ca890d7b.js.map": "/dwfront/static/js/main.ca890d7b.js.map",
     "787.4b7e5139.chunk.js.map": "/dwfront/static/js/787.4b7e5139.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.7f08ee54.css",
     "static/js/main.ca890d7b.js"
   ]
 }
